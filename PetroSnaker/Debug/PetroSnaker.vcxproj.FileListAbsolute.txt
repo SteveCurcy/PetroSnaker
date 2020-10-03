@@ -1,0 +1,2 @@
+C:\Users\74653\Desktop\PetroSnaker\Debug\PetroSnaker.exe
+C:\Users\74653\Desktop\PetroSnaker\Debug\PetroSnaker.pdb
